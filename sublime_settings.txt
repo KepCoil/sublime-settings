@@ -3,6 +3,7 @@ AutoFileName
 Color Hightlighter
 Emmet
 Buffer Scroll (search in google)
+JSLing // JavaScript Code Quality Tool
 
 Settings(theme, color scheme and more):
 {
@@ -15,7 +16,7 @@ Settings(theme, color scheme and more):
 	[
 		"Vintage"
 	],
-	"material_theme_compact_panel": true,
+	"material_theme_compact_panel": true, //false laptop
 	"material_theme_small_statusbar": true,
 	"tab_size": 3,
 	"theme": "OneDarkMaterial.sublime-theme",
