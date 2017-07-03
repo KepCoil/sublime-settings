@@ -1,0 +1,29 @@
+Packages:
+AutoFileName
+Color Hightlighter
+Emmet
+Buffer Scroll (search in google)
+
+Settings(theme, color scheme and more):
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Monokai Neue/Monokai-Neue.tmTheme",
+	"fold_buttons": false,
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_compact_panel": true,
+	"material_theme_small_statusbar": true,
+	"tab_size": 3,
+	"theme": "OneDarkMaterial.sublime-theme",
+	"word_wrap": "false"
+}
+
+Keys:
+[
+	{ "keys": ["alt+shift+r"], "command": "reindent" },
+	{ "keys": ["ctrl+shift+b"], "command": "toggle_side_bar" },
+]
