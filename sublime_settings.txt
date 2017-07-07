@@ -4,6 +4,7 @@ Color Hightlighter
 Emmet
 Buffer Scroll (search in google)
 JSLing // JavaScript Code Quality Tool
+JsFormat // Formatin JS code -> https://www.youtube.com/watch?v=BT1yXRjybh0
 
 Settings(theme, color scheme and more):
 {
