@@ -16,7 +16,7 @@ Settings(theme, color scheme and more):
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Monokai Neue/Monokai-Neue.tmTheme",
-	"fold_buttons": false,
+	"fold_buttons": true,
 	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
