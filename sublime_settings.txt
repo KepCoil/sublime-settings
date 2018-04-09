@@ -3,16 +3,19 @@ Emmet
 SASS
 AutoFileName
 Color Hightlighter
+jQuery
 
 Optional:
 Buffer Scroll (search in google)
 JSLing // JavaScript Code Quality Tool
 JsFormat // Formatin JS code -> https://www.youtube.com/watch?v=BT1yXRjybh0
-Less
-jQuery
+
+View:
+OneDarkMaterial
+Monokai-Neue
 
 
-Settings(theme, color scheme and more):
+Settings:
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Monokai Neue/Monokai-Neue.tmTheme",
